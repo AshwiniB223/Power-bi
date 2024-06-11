@@ -4,8 +4,7 @@
 
 ## Problem Statement
 
-This dashboard helps to define proper KPIs in hiring, promotion, performance and turnover
-Create a visualization for the HR manager that reflects all relevant Key Performance indicators(KPIs) and metrics in the dataset.
+This dashboard helps define proper KPIs for hiring, promotion, performance, and turnover. Create a visualization for the HR manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
 
 ### Steps followed 
